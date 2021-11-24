@@ -28,9 +28,9 @@ Front-end:
 
 **Certifique-se de estar usando a versão [LTS](https://nodejs.org/en/) do node**
 
-  * `git clone git@github.com:tryber/sd-014-b-project-movie-cards-library.git`.
+  * `git clone `.
   * Entre na pasta do repositório clonado:
-    * `cd sd-014-b-project-movie-cards-library`
+    * `cd movie-card-library-project`
 
 ## Instalando Dependências
 
