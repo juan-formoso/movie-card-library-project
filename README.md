@@ -28,7 +28,7 @@ Front-end:
 
 **Certifique-se de estar usando a versão [LTS](https://nodejs.org/en/) do node**
 
-  * `git clone `.
+  * `git clone git@github.com:juan-formoso/movie-card-library-project.git`.
   * Entre na pasta do repositório clonado:
     * `cd movie-card-library-project`
 
